@@ -1,2 +1,2 @@
 # rustycloc
-my portfolio and socials
+my socials and a little about me
